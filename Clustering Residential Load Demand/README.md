@@ -42,7 +42,7 @@ This project investigates the half-hourly electricity consumption patterns of 30
 - **Raw Data Folder:** Holds the raw data files provided by Ausgrid.
 - **Scripts Folder:** Contains the R scripts used for data processing, feature engineering, clustering, and analysis.
 - **0.Run me first.R:** This script executes the entire solution, including data processing, feature engineering, data modeling, and generation of output dataframes.
-- **Major_project Christian Willig 1159820.Rmd:** This R Markdown file uses the output dataframes to generate the final PDF report.
+- **Major_project - Clustering - Final Report.Rmd:** This R Markdown file uses the output dataframes to generate the final PDF report.
 - **references.bib:** This file contains all references cited in the report. 
 
 ### Reproducibility
